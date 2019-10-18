@@ -1,14 +1,17 @@
 This repository contains .ipynb notebooks covering the Basics of Python along with Basics of ML and DL.
 
 The repository has been divided into several repositories -:
-1.Basic Python - Contains .ipynb files covering basics of python\n
+1.Basic Python - Contains .ipynb files covering basics of python
+
 2.Datasets - Contains necessary datasets used in the notebooks in the repository
+
 3.Deep Learning-Examples - Contains .ipynb files covering the basics of Deep Learning
+
 4.Exercise - Contains some problems based on the basic Python Libraries and Basic ML
+
 5.Machine Learning Examples - Contains .ipynb files covering the basics of Machine Learning
 
 Solutions to the exercises and more exercise notebooks will be added as we move further.
-
 For more on Machine Learning, refer to -:
 http://cs229.stanford.edu/notes/
 
