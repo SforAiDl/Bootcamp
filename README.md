@@ -1,4 +1,4 @@
-This repository contains .ipynb notebooks covering the Basics of Python along with Basics of ML and DL.
+This repository contains .ipynb notebooks covering the Basics of Python along with Basics of ML and DL and is mainly meant to help students enrolled in various TiPs.
 
 The repository has been divided into several repositories -:
 
